@@ -1,0 +1,16 @@
+/* Define o estilo do body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+/* Define a altura e o estilo do header */
+header {
+    height: 150px; /* Aumentamos a altura do header para caber a imagem */
+    background-color: #333;
+    display: flex;
+    align-items: flex-start; /* Alinha a imagem ao topo */
+    justify-content: center; /* Centraliza a imagem*/
+}
+
